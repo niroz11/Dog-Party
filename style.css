@@ -1,0 +1,250 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+.menu {
+	background-color: #8FE1EA;
+	width: 100%;
+	height: 8vh;
+	padding: 5px;
+
+
+	
+
+	
+}
+
+.leftmenu{
+	
+	width: 25%;
+	height: 8vh;
+	float: left;
+
+
+
+
+}
+
+
+
+.rightmenu ul li {
+	display: inline-block;
+	
+	float: right;
+	
+	margin: 0 auto;
+	text-align: center;
+	color: #ffff;
+	/*font-family: 'monsterrat', sans-serif;*/
+	font-weight: bold;
+	
+	padding-top: 20px;
+	margin-right: 20px;
+}
+
+
+.logo {
+	width:150px;
+	height: 45px;
+
+	
+	
+
+
+
+}
+
+#text {
+	text-align: center;
+	padding-top: 50px;
+	font-size: 32px;
+	padding-bottom: 20px;
+	margin-top: 0;
+}
+
+#text2 {
+    text-align: center;
+    
+    border: 3px solid #8FE1EA ;
+    width: 160px;
+    
+    margin-left: 640px;
+    margin-top: 40px;
+    font-size: 20px;
+    background-color: #ffff;
+
+   
+
+}
+
+
+.main {
+
+	
+	background-image: url(./images/park.jpg);
+	width: 100%;
+	height: 70vh;
+	background-size: cover;
+
+	
+	margin-top: 0;
+}
+
+.img-circle{
+	display: block;
+	margin: 0 auto;
+    width: 250px;
+	border-radius: 150px;
+	border: 3px solid #8FE1EA;
+
+}
+
+
+
+h5{
+	display: inline-block;
+	margin-left: 330px;
+}
+
+.dog1 {
+	width: 250px;
+	height: 250px;
+	margin-left: 200px;
+	border-radius: 150px;
+}
+
+.dog2 {
+	width: 250px;
+	height: 250px;
+	margin-left: 150px;
+	border-radius: 150px;
+}
+
+.dog3 {
+	width: 250px;
+	height: 250px;
+	margin-left: 100px;
+	border-radius: 150px;
+}
+
+.one {
+	
+	width: 250px;
+	height:180px;
+	display: inline-block;
+	margin-left: 200px;
+	text-align: center;
+
+}
+
+.two{
+	
+	width: 250px;
+	height:180px;
+	display: inline-block;
+	margin-left: 150px;
+	text-align: center;
+
+}
+
+.three {
+	
+	width: 250px;
+	height:200px;
+	display: inline-block;
+	margin-left: 120px;
+	text-align: center;
+
+}
+
+h4{
+	border: 4px solid #8FE1EA;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	background-color: #ffff;
+	color:#8FE1EA;
+	display: inline-block;
+}
+
+#btn1 {
+	margin-left: 260px;
+
+
+}
+
+#btn2 {
+	margin-left: 290px;
+
+
+}
+
+#btn3{
+	margin-left: 280px;
+
+}
+
+
+
+.footer {
+	background-color: #8FE1EA;
+	height: 130px;
+}
+
+#yay {
+	text-align: center;
+	margin-left: 10px;
+	padding-top: 10px;
+	color: #ffff;
+}
+
+.lg1{
+	width: 55px;
+	height:44px;
+	margin-left: 550px;
+}
+
+.lg2 {
+	margin-left: 25px;
+}
+
+.lg3{
+	margin-left: 30px;
+}
+
+.lg4{
+	margin-left: 35px;
+}
+
+.github-link {
+	
+	margin-left: 635px;
+	color: #ffff;
+	
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
